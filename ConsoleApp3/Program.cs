@@ -65,8 +65,8 @@ namespace ConsoleApp3
             //Console.WriteLine($"{sum} is the sum");
             #endregion
             #region Task3
-            Task3 adfv = new Task3();
-            adfv.Start();
+            //Task3 adfv = new Task3();
+            //adfv.Start();
             #endregion// this one doesnt work (
             #region Task4
             //public void Matrrixadd(int[,] arr, int[,] arr1)
